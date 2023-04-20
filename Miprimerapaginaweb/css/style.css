@@ -1,0 +1,163 @@
+body{
+    margin: 72px auto;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 640px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h1{
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 120%;
+    text-align: center;
+    margin-bottom: 24px;
+    max-width: 858px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    /*
+    font-size: 54px;
+    line-height: 64.8px;
+    width: 858px;
+    align-items: center;
+*/
+}
+
+
+#description{
+    font-family: 'Roboto Mono';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    text-align: center;
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 32px;
+    max-width: 626px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#cover{
+  width: 100%;
+}
+
+.solid{
+    border: 2px solid #000000;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    /*width: 640px;
+    height: 0px;
+    left: 400px;
+    top: 1323px;
+    */
+}
+
+.author{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 8px;
+}
+.date{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-top: 8px;
+    margin-bottom: 46px;
+}
+
+
+.content{
+    font-family: 'Merriweather';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}   
+
+h2{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 160%;
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+figure{
+    margin: 32px 0px;
+   
+}
+
+figure img {
+    width: 100%;
+    margin-bottom: 20px;
+  
+}
+
+figcaption{
+    font-family: 'Inter',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+}
+
+
+
+.tags{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #0C0C0C;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.doted{
+    border: 1px dashed #000000;
+    margin: 32px 20px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+
+
+.footer{
+    font-family: 'Merriweather',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #0C0C0C;
+}  
+
+.footer span{
+    font-family: 'Inter',sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.spn{
+    font-weight: bold;
+}
